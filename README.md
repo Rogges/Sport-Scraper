@@ -7,5 +7,3 @@ After importing, call help() for more specifications on what values to pass into
 ### Dependencies
 
 BeautifulSoup4, and Requests
-
-...
